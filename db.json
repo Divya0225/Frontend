@@ -1,0 +1,55 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Slim Fit Jeans",
+      "category": "Jeans",
+      "price": 39.99,
+      "color": "Blue",
+      "sizes": ["S", "M", "L", "XL"],
+      "brand": "DenimStyle",
+      "inventory": true
+    },
+    {
+      "id": 2,
+      "name": "Cotton T-Shirt",
+      "category": "T-Shirts",
+      "price": 19.99,
+      "color": "White",
+      "sizes": ["M", "L", "XL"],
+      "brand": "CasualChic",
+      "inventory": true
+    },
+    {
+      "id": 3,
+      "name": "Leather Jacket",
+      "category": "Jackets",
+      "price": 89.99,
+      "color": "Black",
+      "sizes": ["S", "M", "L"],
+      "brand": "UrbanEdge",
+      "inventory": false
+    },
+    {
+      "id": 4,
+      "name": "Summer Dress",
+      "category": "Dresses",
+      "price": 49.99,
+      "color": "Floral",
+      "sizes": ["S", "L", "XL"],
+      "brand": "ElegantWear",
+      "inventory": false
+    },
+    {
+      "id": 5,
+      "name": "Athletic Shoes",
+      "category": "Shoes",
+      "price": 59.99,
+      "color": "Gray",
+      "sizes": ["M", "L", "XL"],
+      "brand": "SportFlex",
+      "inventory": true
+    }
+  ]
+}
+
