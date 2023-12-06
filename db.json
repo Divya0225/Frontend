@@ -1,54 +1,80 @@
 {
   "products": [
     {
+      "_id": "656fdcf987c6a040c1b672b9",
       "id": 1,
       "name": "Slim Fit Jeans",
       "category": "Jeans",
       "price": 39.99,
       "color": "Blue",
-      "sizes": ["S", "M", "L", "XL"],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
       "brand": "DenimStyle",
-      "inventory": true
+      "inventory": 100
     },
     {
+      "_id": "656fdcf987c6a040c1b672ba",
       "id": 2,
       "name": "Cotton T-Shirt",
       "category": "T-Shirts",
       "price": 19.99,
       "color": "White",
-      "sizes": ["M", "L", "XL"],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
       "brand": "CasualChic",
-      "inventory": true
+      "inventory": 150
     },
     {
+      "_id": "656fdcf987c6a040c1b672bb",
       "id": 3,
       "name": "Leather Jacket",
       "category": "Jackets",
       "price": 89.99,
       "color": "Black",
-      "sizes": ["S", "M", "L"],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
       "brand": "UrbanEdge",
-      "inventory": false
+      "inventory": 75
     },
     {
+      "_id": "656fdcf987c6a040c1b672bc",
       "id": 4,
       "name": "Summer Dress",
       "category": "Dresses",
       "price": 49.99,
       "color": "Floral",
-      "sizes": ["S", "L", "XL"],
+      "sizes": [
+        "S",
+        "L",
+        "XL"
+      ],
       "brand": "ElegantWear",
-      "inventory": false
+      "inventory": 120
     },
     {
+      "_id": "656fdcf987c6a040c1b672bd",
       "id": 5,
       "name": "Athletic Shoes",
       "category": "Shoes",
       "price": 59.99,
       "color": "Gray",
-      "sizes": ["M", "L", "XL"],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
       "brand": "SportFlex",
-      "inventory": true
+      "inventory": 80
     }
   ]
 }

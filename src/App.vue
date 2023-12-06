@@ -28,7 +28,7 @@ export default{
   methods:{
     //promoises
     async fetchcloths(){
-      const res = await fetch('https://nodeserver-30fr.onrender.com/api');
+      const res = await fetch('https://webservice-backend.onrender.com/api');
       const data = await res.json()
       console.log(data)
       return data
